@@ -5,16 +5,6 @@ using namespace std;
 int main()
 {
 
-    /*
-    int a;
-    cin >> a;
-    if(!cin){
-        cout << "input failed";
-    } else {
-        cout << a << endl;
-    }
-    */
-
     int num1, num2, num3;
     char op;
     string Answers[] = {"m", "name"};
@@ -102,8 +92,6 @@ int main()
     cout << "Just so you know. I am " << num1 * num2 << " years old." << endl;
 
     cout << "THANK YOU FOR USING ME." << endl;
-
-
 
     return 0;
 }
