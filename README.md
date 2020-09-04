@@ -7,6 +7,8 @@ I started self-studying on August 13, 2020, and finished this on August 20, 2020
 
 This program taught me how to use the basics, which are the usage of variables and functions, the if/else statements, and the while loop.
 
+The calculator has 2 versions: MyFriendlyCalculator and TheBetterFriendlyCalculator.
+
 As I continue my journey in learning more about programming and C++, I will be updating my 'calculator' versions.
 
 Source: FreeCodeCamp's C++ for Beginners YouTube tutorial
