@@ -9,6 +9,12 @@ This program taught me how to use the basics, which are the usage of variables a
 
 The calculator has 2 versions: MyFriendlyCalculator and TheBetterFriendlyCalculator.
 
+My Friendly Calculator
+    This program shows the basics of printing and accepting input from user. My first lines of code ever!
+    
+The Better Friendly Calculator
+    This program shows more basic principles that greatly improves the logic of the first one.
+
 As I continue my journey in learning more about programming and C++, I will be updating my 'calculator' versions.
 
 Source: FreeCodeCamp's C++ for Beginners YouTube tutorial
