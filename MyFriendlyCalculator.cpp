@@ -1,9 +1,9 @@
-#include <iostream>
-
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
-{
+{   sync_with_stdio(NULL);    //improve std input and output stream
+    cin.tie(NULL)
     int num1, num2, num3;
     string Answers[] = {"m", "name"};
 
